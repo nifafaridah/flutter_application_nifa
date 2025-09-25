@@ -19,3 +19,6 @@ flutter:
   uses-material-design: true
   assets:
     - images/Logo smk ypc.jpg
+    - images/imagekucinglucu.jpg
+    - images/pemandangan pegunungan.jpg
+    - images/pemandangan pantai.jpg
